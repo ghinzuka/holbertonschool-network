@@ -1,0 +1,32 @@
+#!/usr/bin/env bash
+# Display listening ports along with the PID and program name
+# Options used:
+# -t: Show TCP sockets
+# -u: Show UDP sockets
+# -l: Show only listening sockets
+# -n: Do not resolve names (display IP addresses and port numbers instead of hostnames and service names)
+# -p: Show the process (PID and program name) that owns each socket
+# Other useful options (not used in this script):
+# -a: Show all sockets (listening and non-listening)
+# -r: Show routing table
+# -s: Display summary statistics
+# -e: Show extended information
+# -m: Display memory usage for each socket
+# -i: Show internal TCP information
+# -x: Show Unix domain sockets
+# -q: Show query of socket queues
+# -f: Show socket filters
+# -Z: Show SELinux context
+# -z: Show process information
+# -H: Show header line
+# -h: Show help
+# -V: Show version information
+# -v: Show verbose output
+# -c: Show continuous output
+# -O: Show timer information
+# -4: Display only IPv4 sockets
+# -6: Display only IPv6 sockets
+# -A <protocol>: Display sockets of a specific protocol (e.g., tcp, udp, unix, packet, netlink)
+# -o: Show timer information
+# -k: Display connection kill option (can kill connections)
+ss -tulnp
