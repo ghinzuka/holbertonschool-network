@@ -1,5 +1,9 @@
-# Project Badge
-**Networking basics #0**  
+
+#Networking basics #0
+
+![download](https://github.com/user-attachments/assets/5dc671a3-1e92-4b7f-8783-1300442b5b6a)
+
+
 *Novice*  
 *By: Sylvain Kalache*  
 *Weight: 1*  
