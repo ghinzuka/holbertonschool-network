@@ -1,6 +1,10 @@
-# Project Badge
-**Networking basics #1**  
-*Amateur*  
+
+# Networking basics #1
+
+![download](https://github.com/user-attachments/assets/07532e83-0ad0-4101-854d-7c83c7b61771)
+
+
+*Amateur* 
 *By: Sylvain Kalache*  
 *Weight: 1*  
 *Migrated to checker v2:*  
